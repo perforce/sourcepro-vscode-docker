@@ -1,0 +1,6 @@
+.devcontainer/*.run
+.devcontainer/*.key
+.vscode/ipch
+
+*.o
+*.out
