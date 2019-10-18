@@ -5,6 +5,8 @@ As of Visual Studio Code 1.35.0, the [Remote - Containers](https://marketplace.v
 
 To learn more about Remote Development in Visual Studio Code check out [Microsoft's guide](https://code.visualstudio.com/docs/remote/containers).
 
+A more detailed explanation of this repository can be found on the [Rogue Wave blog](https://www.roguewave.com/blog/container-development-visual-studio-code-docker-sourcepro).
+
 Setting up the development container
 ------------------------------------
 1. For first time users, follow Microsoft's [getting started instructions](https://code.visualstudio.com/docs/remote/containers#_getting-started).
